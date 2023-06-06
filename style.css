@@ -1,0 +1,47 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+*{
+    font-family: "outfit", sans-serif;
+}
+
+body{
+    background-color: #f8f9fa;
+}
+
+.title{
+    font-size: 580%;
+}
+
+p{
+    color: grey;
+    font-weight: 700;
+}
+
+.extra-margin{
+    margin-top: 108px;
+}
+
+.desktopImage{
+    height: 500px;
+}
+/* ```````````````````````````above movement````````````````````````````````````````````` */
+.moveImgUp {
+    position: absolute;
+}
+
+.moveContentDown {
+    position: absolute;
+    top: 650px;
+    text-align: center;
+}
+.titleH1{
+    font-size: 200%;
+    font-weight: bold;
+}
